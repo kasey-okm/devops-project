@@ -74,7 +74,12 @@ Click to Download
 
   After the installation is done, verify by typing this command `git --version`. 
 
+
   if installed correctly you will see the version number.
+
+  ![alt text](<img/git step 00.png>)
+
+  ![alt text](<img/git step 000.png>)
 
 
 
