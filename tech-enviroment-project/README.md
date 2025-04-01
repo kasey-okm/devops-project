@@ -29,6 +29,9 @@ Once installed, the VS Code application opens, and you’ll be greeted with the 
 
 ![alt text](<img/vscode step 4.png>)
 
+##welcome Page
+![alt text](<img/vscode step 00.png>)
+
 ### Conclusion
 
 In this tutorial, you’ve learned how to install VS Code on your Mac making writing codes more enjoyable. At this point, you can take full advantage of what VS Code offers when working on your next project.
@@ -78,6 +81,8 @@ Click to Download
   if installed correctly you will see the version number.
 
   ![alt text](<img/git step 00.png>)
+
+  git --version output
 
   ![alt text](<img/git step 000.png>)
 
@@ -145,6 +150,9 @@ Next execute the following command from the terminal to install the package
 
 Press Y to accept the license terms to complete the installation. On successful installation, you will see the message Successfully installed “Oracle VM VirtualBox Extension Pack”.
 
+### Welcome screen
+![alt text](<img/virtualbox step 00.png>)
+
 
 ### Conclusion
 Once you install VirtualBox, create a new virtual machine by clicking the “New” button and following the remaining steps to set up your new machine. Make sure that you select the correct operating system version.
@@ -193,8 +201,13 @@ Once you install VirtualBox, create a new virtual machine by clicking the “New
 
 ![alt text](<img/ubuntu step 8.png>)
 
+Login Screen
 
-### Conclusion
+![alt text](<img/ubuntu login 00.png>)
+![alt text](<img/ubuntu login 2.png>)
+
+
+
 
 By following this article, you can easily install Ubuntu on VirtualBox and begin exploring all that this versatile operating system has to offer. VirtualBox provides a flexible and user-friendly platform for running multiple operating systems simultaneously, making it ideal for testing and development purposes. Regularly updating your Ubuntu VirtualBox installation and maintaining good virtualization practices will ensure a stable and efficient experience. Enjoy the benefits of both worlds by using Ubuntu on VirtualBox.
 
@@ -225,6 +238,10 @@ Observe the image above for guild. after clicking continue an email will be sent
 
 
 ![alt text](<img/github setup 4.png>)
+
+GitHub Dashboard
+
+![alt text](<img/github dash.png>)
 
 Congratulations! You've successfully created your GitHub account.
 
@@ -281,6 +298,9 @@ Follow the instructions provided to activate your account.
 ![alt text](<img/aws step 11.png>)
 
 Once activated, log in to the AWS Management Console with your credentials to begin utilizing various cloud services. Previously, Nigerian users often resorted to dollar-denominated cards due to currency limitations. However, AWS now accepts payments in Naira, allowing the use of local Nigerian credit and debit cards. This change helps avoid foreign exchange costs and simplifies the payment process for Nigerian customers.
+
+AWS Dashboard
+![alt text](<img/aws manage.png>)
 
 
 ### Conclusion
